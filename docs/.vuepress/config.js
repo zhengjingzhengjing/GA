@@ -1,6 +1,6 @@
 module.exports = {
   "title": "JingHouse",
-  "description": "",
+  "description": "Spring is coming, with its unique voice, light steps, slowly.",
   "dest": "public",
   "head": [
     [
@@ -91,7 +91,7 @@ module.exports = {
     "author": "Jing",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
-    "startYear": "2020-04-05"
+    "startYear": "2020"
   },
   "markdown": {
     "lineNumbers": true
