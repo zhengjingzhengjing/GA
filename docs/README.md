@@ -11,7 +11,7 @@ home: true
 # }
 bgImage: '/bg.jpg'
 bgImageStyle: {
-  height: '450px'
+  height: '400px'
 }
 isShowTitleInHome: false
 actionText: Guide

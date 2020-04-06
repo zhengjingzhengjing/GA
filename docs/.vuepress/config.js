@@ -88,11 +88,11 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "sidebar": "auto",
-    "lastUpdated": "Last Updated",
+    "lastUpdated": "更新时间 ",
     "author": "Jing",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
-    "startYear": "2020"
+    "startYear": "2020405"
   },
   "markdown": {
     "lineNumbers": true
