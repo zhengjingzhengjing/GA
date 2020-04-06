@@ -2,7 +2,7 @@ module.exports = {
   "title": "JingHouse",
   "description": "Spring is coming, with its unique voice, light steps, slowly.",
   "dest": "public",
-  "base": "/GitHubActions/",
+  "base": "/GA/",
   "head": [
     [
       "link",
