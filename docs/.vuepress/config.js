@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "JingHouse",
-  "description": "Spring is coming, with its unique voice, light steps, slowly.",
+  "title": "JING HOUSE",
+  "description": "你必须只有内心丰富，才能摆脱这些生活表面的相似。",
   "dest": "public",
   "base": "/GA/",
   "head": [
