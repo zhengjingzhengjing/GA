@@ -12,8 +12,7 @@ publish: true
 20200404是全国哀悼日，打开网页，几乎所有网页都变成了灰色。
 这时候就有些好奇，是使用了什么方法让这些网站快速变灰的？
 <!-- more -->
-肯定不可能是程序猿挨个去更换吧 嘻嘻
-就在网上找了一些资料，自己写了个demo来测试，有效的就下面这一种方法
+
 在你的css里面加上这一段代码就可以了
 
 ```
@@ -33,5 +32,13 @@ publish: true
 html {
   -webkit-filter: grayscale(100%);
   filter:progid:DXImageTransform.Microsoft.BasicImage(graysale=1);
+}
+```
+
+html标签增加class属性class='gray'
+
+```
+.gray {
+  -webkit-filter: grayscale(.95);
 }
 ```
